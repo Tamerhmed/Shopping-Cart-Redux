@@ -15,8 +15,8 @@ import CartContainer from "./components/CartContainer";
 // initial store
 const initialStore = {
   cart: cartItems,
-  total:105,
-  amount:5,
+  total:0,
+  amount:0,
 }
 
 // store
